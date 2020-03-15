@@ -1,0 +1,3 @@
+include ':clamnumpad'
+include ':app'
+rootProject.name = "Clam Numpad"
