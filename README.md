@@ -22,7 +22,7 @@ In your app level build.gradle:
 
 ```
 dependencies {
-	        implementation 'com.github.nightcrawler-:clamnumpad:Tag'
+	        implementation 'com.github.nightcrawler-:clamnumpad:<version>'
 	}
 ```
 
